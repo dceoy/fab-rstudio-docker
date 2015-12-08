@@ -1,16 +1,7 @@
-RStudio Server on Docker
-========================
+Deploy tool for RStudio Server on Docker
+========================================
 
-Dockerfile and fabfile for provisioning RStudio Server on Docker on Ubuntu
-
-Docker image
-------------
-
-Also available as an image from [Docker Hub](https://hub.docker.com/r/dceoy/rstudio/).
-
-```sh
-$ docker pull dceoy/rstudio
-```
+Fabfile for deploy [RStudio Server on Docker on Ubuntu](https://github.com/dceoy/rstudio-server-docker)
 
 Setup of a client
 -----------------
